@@ -1,4 +1,4 @@
-# VBA_Challenge
+# VBA-Challenge
 Module 2 Challenge
 Process Stock Data
 Explanation:
